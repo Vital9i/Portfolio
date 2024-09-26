@@ -21,9 +21,9 @@ export const Main = () => {
     )
 }
 
-const StyledMain = styled.div`
+const StyledMain = styled.section`
     min-height: 100vh;
-    background-color: #fff5e7;
+    
 `
 
 const Photo = styled.img`
@@ -34,6 +34,6 @@ const Photo = styled.img`
 const MainTitle = styled.h1 `
 
 `
-const Name = styled.span`
+const Name = styled.div`
     
 `

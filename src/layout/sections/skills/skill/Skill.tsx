@@ -18,7 +18,7 @@ export const Skill = (props: SlillPropsType) => {
                 )
 }
 
-const StyledSkill = styled.section`
+const StyledSkill = styled.div`
     width:33%;
     background-color: #7df081;
     margin: 3px;
