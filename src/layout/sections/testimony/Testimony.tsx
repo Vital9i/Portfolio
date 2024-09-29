@@ -9,7 +9,7 @@ export const Testimony = () => {
     return (
         <StyledTestimony>
             <SectionTitle>Testimony</SectionTitle>
-            <FlexWrapper direction={'column'} aling={'center'}>
+            <FlexWrapper direction={'column'} align={'center'}>
                 <Icon iconId={'testimony'} />
                 <Slider />
             </FlexWrapper>
