@@ -4,7 +4,7 @@ import { Logo } from "../../components/logo/Logo";
 import { Container } from "../../components/Container";
 import { FlexWrapper } from "../../components/FlexWrapper";
 import { HeaderMenu } from "./headerMenu/HeaderMenu";
-import { MobileMenu } from "./mobileMenu/MoboleMenu";
+import { MobileMenu } from "./mobileMenu/MobileMenu";
 
 const items = ['Home', 'Skills', 'Works', 'Testimony', 'Contact']
 
